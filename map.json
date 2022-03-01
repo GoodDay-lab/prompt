@@ -1,0 +1,9 @@
+{
+  "SIZE": [3200, 2400],
+  "NAME": "DEMO MAP",
+  "MAP_NAME": "map.png",
+  "START_POS": [[2400, 1860], [2600, 1960]],
+  "START_ANGLE": 180,
+  "ROUNDS": 3,
+  "CHECKPOINTS": [[1, [10, 10, 40, 40]], [2, [100, 100, 40, 40]]]
+}

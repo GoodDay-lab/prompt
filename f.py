@@ -4,7 +4,7 @@ import time
 import pygame
 
 
-TARGET = '127.0.0.1', 2002
+TARGET = '192.168.0.122', 4000
 
 screen = pygame.display.set_mode((0, 0), pygame.FULLSCREEN)
 WIDTH, HEIGHT = screen.get_size()
